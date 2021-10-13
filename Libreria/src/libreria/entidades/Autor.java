@@ -25,6 +25,10 @@ public class Autor {
     private String nombre;
     
     private Boolean alta;
+    
+    private String atributo1;
+}
+    
 
     public Autor() {
     }
